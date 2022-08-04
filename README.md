@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/gilsonluiz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilsonluiz&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonluiz&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=gilsonluiz&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonluiz&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="GilsonLuiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
